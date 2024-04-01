@@ -57,9 +57,15 @@ docker run -d --name gerenciador --network development
 backend:gerenciador
 ```
 
-## Link do front
+## Repositorio Front
 
-``ǜersel
+```github
+https://github.com/maxsanttos/gerenciadorAngular
+```
+
+### Link do front
+
+```versel
 https://gerenciador-angular.vercel.app/login
 
 ```
