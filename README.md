@@ -57,10 +57,10 @@ Rodando o mysql e o gerenciador
 
 ```docker
 
-docker run -d --name mysql --network development -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=desafio mysql:latest 
+docker run -d --name mysql --network development -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=desafio maxsanttos/mysql:max
 
 docker run -d --name gerenciador --network development
-backend:gerenciador
+maxsanttos/backend:gerenciador
 ```
 
 ## Repositorio Front
