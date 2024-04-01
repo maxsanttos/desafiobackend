@@ -66,6 +66,6 @@ https://github.com/maxsanttos/gerenciadorAngular
 ### Link do front
 
 ```versel
-https://gerenciador-angular.vercel.app/login
+https://gerenciador-angular.vercel.app
 
 ```
