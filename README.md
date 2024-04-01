@@ -12,6 +12,12 @@ O foco deve estar na simplicidade e funcionalidade, proporcionando uma interface
 * API para gerenciar as tarefas (criar, ler, atualizar, deletar - CRUD).
 * Armazenamento persistente das tarefas (pode ser um banco de dados simples).
 
+## Repositorio do Backend
+
+```gitub
+https://github.com/maxsanttos/desafiobackend
+```
+
 ## Links e Comandos
 
 ### Links
