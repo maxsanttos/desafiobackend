@@ -65,6 +65,16 @@ backend:gerenciador
 
 ## Repositorio Front
 
+## Requesitos Básicos frontend:
+
+### Frontend
+
+Uma página para listar todas as tarefas, mostrando seu título e status (completa/incompleta).
+Formulário para adicionar uma nova tarefa.
+Opção para marcar uma tarefa como completa ou incompleta.
+Capacidade de editar o título de uma tarefa.
+Botão para excluir uma tarefa.
+
 ```github
 https://github.com/maxsanttos/gerenciadorAngular
 ```
