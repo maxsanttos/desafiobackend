@@ -26,7 +26,7 @@ public class SecurityConfigurations {
     @Bean
     public CorsConfigurationSource corsConfigurationSourceCorsConfig() {
         CorsConfiguration configuration = new CorsConfiguration();
-        configuration.addAllowedOrigin("http://localhost:4200");  
+        configuration.addAllowedOrigin("https://gerenciador-angular.vercel.app/");
         configuration.addAllowedMethod("*"); 
         configuration.addAllowedHeader("*"); 
 
